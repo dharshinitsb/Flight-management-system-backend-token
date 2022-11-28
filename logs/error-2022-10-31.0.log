@@ -1,0 +1,103 @@
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-9] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-10] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - User with user name dharshinitsb17@gmail.com already exists
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - User with user name dharshinitsb17@gmail.com already exists
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-9] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-10] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-9] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-10] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-9] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-10] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-9] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-10] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-9] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-10] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-9] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-10] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - User with user name Dharshini T S B already exists
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-10] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-9] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - User with user name dharshinitsb17@gmail.com already exists
+2022-10-31_13-19-39 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - User with user name dharshinitsb17@gmail.com already exists
+2022-10-31_13-19-39 [http-nio-8084-exec-1] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-3] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 2; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 2
+2022-10-31_13-19-39 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - User with user name dharshinitsb17@gmail.com already exists
+2022-10-31_13-19-39 [http-nio-8084-exec-7] ERROR c.m.a.e.GlobalExceptionHandler - User with user name dharshinitsb17@gmail.com already exists
+2022-10-31_13-19-39 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - User with user name asijit already exists
+2022-10-31_13-19-39 [http-nio-8084-exec-10] ERROR c.m.a.e.GlobalExceptionHandler - User with user name dharsh@gmail.com already exists
+2022-10-31_13-19-39 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - User with user name dharsh@gmail.com already exists

@@ -1,0 +1,8 @@
+2022-07-07_07-59-32 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - User with user name 22 already exists
+2022-07-07_07-59-32 [http-nio-8084-exec-6] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 6; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 6
+2022-07-07_07-59-32 [http-nio-8084-exec-5] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 6; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 6
+2022-07-07_07-59-32 [http-nio-8084-exec-4] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 6; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 6
+2022-07-07_07-59-32 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - query did not return a unique result: 6; nested exception is javax.persistence.NonUniqueResultException: query did not return a unique result: 6
+2022-07-07_12-16-03 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - User with user name aaa already exists
+2022-07-07_14-36-29 [http-nio-8084-exec-8] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2022-07-07_14-36-29 [http-nio-8084-exec-2] ERROR c.m.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
